@@ -28,6 +28,6 @@ python3 -m drive1bot
 
 # How to run Docker
 ```
-docker build -t drive1bot .
+docker build . -t drive1bot .
 docker run -it drive1bot
 ```
